@@ -28,3 +28,9 @@ npm start
 | POST   | /users     |
 | PUT    | /users/:id |
 | DELETE | /users/id  |
+
+# Crédits
+
+- Site Web : https://nico-develop.fr
+- Youtube : https://www.youtube.com/channel/UCcr6AfS_Dkl8MIQt9yiCn7g
+- Twitter : https://twitter.com/nico_develop
