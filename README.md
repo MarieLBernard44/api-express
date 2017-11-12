@@ -22,7 +22,7 @@ npm start
 # Urls de l'API
 
 | VERBES | URI        | 
-|--------|-----------:|
+|--------|------------|
 | GET    | /users     |
 | GET    | /users/:id |
 | POST   | /users     |
